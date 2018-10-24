@@ -1,0 +1,73 @@
+.presentation {
+}
+
+#me {
+  width:175px;
+  height: 175px;
+  border-radius:150px;
+}
+
+.photographers{
+}
+
+.align {
+  display:inline-flex;
+  list-style-type: none;
+  margin:0 auto;
+}
+
+.link {
+  margin:20px;
+}
+
+li{
+  font-size: 20px;
+}
+
+body {
+  color: #7d7d7d;
+  background-image: url("images/bm.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+#sal {
+  width: 458px;
+  height: 416px;
+}
+
+#newton {
+  width: 405px;
+  height: 250px;
+}
+
+#daido {
+  width: 405px;
+  height: 250px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 515px;
+  margin: auto;
+}
